@@ -1,5 +1,6 @@
 #Ising model
-%matplotlib inline
+## referenced this from 
+## https://rajeshrinet.github.io/blog/2014/ising-model/
 import numpy as np
 from numpy.random import rand
 import matplotlib.pyplot as plt
