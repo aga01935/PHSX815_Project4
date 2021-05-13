@@ -1,6 +1,6 @@
 # PHSX815_Project4
 
-## This is the Project 3 for the PHSX815
+## This is the Project 4 for the PHSX815
 This code is written in python and most of the codes can be found on the folder python
 
 There are mainly two codes
